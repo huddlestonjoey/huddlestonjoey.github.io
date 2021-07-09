@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(183, 0, 255);
+}
+.row{
+    overflow: hidden;
+}
+.float-right{
+    float: right;
+    width: 45%;
+    word-wrap: break-word;
+}
+.float-left{
+    float: left;
+    width: 45%;
+    word-wrap: break-word;
+} 

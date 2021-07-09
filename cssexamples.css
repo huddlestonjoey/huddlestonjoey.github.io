@@ -1,0 +1,22 @@
+body{
+    background-color: blue;
+}
+h1{
+    font-size: 100px;
+    background-color: aqua;
+
+}
+#large{
+    font-size: 40px;
+}
+.green-backround{
+    background-color: green;
+}
+div{
+    margin: 50px;
+    padding: 25px;
+    border-style: solid; 
+    border-width: 5px;
+    border-radius: 20px;
+    background-color:aquaMarine;
+}
